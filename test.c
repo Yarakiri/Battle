@@ -2,7 +2,7 @@
 
 
 int main(void){
-	int pv;
+	int pv; //pv
 	int attaque;
 	pv = 100;
 	printf("MONSTRE   Pv :%d\n",pv);
